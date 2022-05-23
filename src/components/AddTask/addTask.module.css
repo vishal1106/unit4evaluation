@@ -1,0 +1,17 @@
+.addTask {
+ border: 1PX solid;
+ height: 30px;
+ width:380px;
+}
+input{
+  height:50px;
+  font-size: 20px;
+  width:330px
+ 
+}
+button{
+  height: 50px;
+  width: 50px;
+  font-size: 20px;
+  color: #6fd7c2;
+}
